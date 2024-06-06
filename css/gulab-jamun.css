@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-decoration:underline;
+    color:white;
+    font-family: cursive;
+}
+body{
+    background-color: #6e2516;
+}
+strong{
+    color: lightgreen;
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+p{
+    color: white;
+}
+a{
+    color: yellow;
+}
+li{
+    color: hotpink;
+}
+div{
+    color:white;
+}

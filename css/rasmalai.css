@@ -1,0 +1,20 @@
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Brush Script MT",cursive;
+    font-weight:300;
+    font-size: 80px;
+    
+}
+
+strong{
+    color: red;
+    text-decoration: underline;
+}
+
+a{
+    color:blue;
+}
